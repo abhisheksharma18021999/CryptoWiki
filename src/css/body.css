@@ -1,0 +1,25 @@
+/* entire left panel of the coin details body */
+.left-panel {
+    border: 2px solid black;
+    font-weight: 500;
+}
+
+/* image in left panel i.e. logo of coin */
+.left-panel img{
+    max-width: 90%;
+    margin: 1em auto;
+}
+
+
+/* collectively side panel */
+.side-details {
+    border-top: 2px solid black;
+}
+
+
+
+/* all details of the left panel */
+.left-panel ul {
+    list-style-type: none;
+    padding: 1em;
+}

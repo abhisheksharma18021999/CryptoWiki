@@ -1,0 +1,17 @@
+/* button */
+.headingStyles button {
+    margin-left: 10px;
+}
+
+
+/*heading css*/
+
+
+
+
+/* form */
+.headingStyles .input-group {
+    width: 50%;
+    margin: 10px;
+    display: inline-flex;
+}

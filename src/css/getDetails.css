@@ -1,0 +1,23 @@
+/* Heading of coin details including name and symbol */
+.coinHeader {
+    background-color: #599FA1;
+    font-size: x-large;
+}
+
+/* heading text as a link */
+.coinHeader a{
+    color: black;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+/* coin description */
+.description {
+    margin: 3em auto;
+}
+
+/* entire body of the coin details */
+.coinBody {
+    background-color: #CEF8FF;
+}
+
